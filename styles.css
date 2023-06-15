@@ -1,0 +1,17 @@
+.input-search-wrapper {
+  margin-bottom: 2rem;
+}
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.hidden {
+  display: none;
+}
+
+.block {
+  display: block;
+}
